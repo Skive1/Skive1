@@ -5,7 +5,7 @@
 <br>
 <!-- https://simpleicons.org/ -->
 
-<span><img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=F7DF1E" alt="Java logo" title="Java" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Java-282C34?logo=openjdk&logoColor=#000000" alt="Java logo" title="Java" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/C-282C34?logo=c&logoColor=1572B6" alt="C logo" title="C" height="25" /></span>
 &nbsp;
@@ -20,6 +20,8 @@
 <span><img src="https://img.shields.io/badge/Apache%20Netbeans%20IDE-282C34?logo=apache-netbeans-ide&logoColor=1B6AC6" alt="Apache NetBeans IDE logo" title="Visual Studio Code" height="25" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=E34F26" alt="Git logo" title="Git" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Ngrok-282C34?logo=ngrok&logoColor=1F1E37" alt="Ngrok logo" title="Ngrok" height="25" /></span>
 &nbsp;
 
 
