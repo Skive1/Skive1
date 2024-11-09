@@ -2,7 +2,6 @@
   <img src="svg/skive1.svg" width="1200" alt="Skive1" />
 </a>
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
-<br>
 <img align="left" width="30px" style="visibility: hidden;" src="" />
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" />
