@@ -20,7 +20,7 @@
 <br>
 <div align=center>
 <a href="#" title="Skive1">
-    <img width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skive1&layout=compact&theme=monokai"/>
+    <img style="margin-right: 20px" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skive1&layout=compact&theme=monokai"/>
   </a>
 
   <a href="#" title="Skive1">
@@ -32,9 +32,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
+
 <h2 align="center">🌐 Soical Media 🌐</h2>
 <br>
 <div align="center">
