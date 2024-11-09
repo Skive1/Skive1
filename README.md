@@ -20,11 +20,11 @@
 <br>
 <div align=center>
 <a href="#" title="Skive1">
-    <img align="center" width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skive1&layout=compact&theme=monokai"/>
+    <img align="left" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skive1&layout=compact&theme=monokai"/>
   </a>
 
   <a href="#" title="Skive1">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=Skive1&show_icons=true&theme=monokai" />
+    <img width="315" align="right" src="https://github-readme-stats.vercel.app/api?username=Skive1&show_icons=true&theme=monokai" />
   </a>
 </div>
 
