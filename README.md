@@ -23,7 +23,7 @@
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=Skive1&show_icons=true&theme=monokai" />
   </a>
   <a href="#" title="Skive1">
-    <img align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skive1&layout=compact&theme=monokai"/>
+    <img style="margin-right: 95px;" align="right" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skive1&layout=compact&theme=monokai"/>
   </a>
 </div>
 
