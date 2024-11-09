@@ -19,10 +19,13 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 <div align=center>
-  ![Skive1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skive1&show_icons=true&theme=monokai)
+<a href="#" title="Skive1">
+    <img align="center" width="315" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skive1&layout=compact&theme=monokai"/>
+  </a>
 
-
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Skvie1&layout=compact&theme=monokai)
+  <a href="#" title="Skive1">
+    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api?username=Skive1&show_icons=true&theme=monokai" />
+  </a>
 </div>
 
 <br>
