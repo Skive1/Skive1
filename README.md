@@ -27,7 +27,9 @@
     <img width="315" align="right" src="https://github-readme-stats.vercel.app/api?username=Skive1&show_icons=true&theme=monokai" />
   </a>
 </div>
-
+<br>
+<br>
+<br>
 <br>
 <h2 align="center">🌐 Soical Media 🌐</h2>
 <br>
