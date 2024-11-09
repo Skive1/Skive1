@@ -39,7 +39,7 @@
 </div>
 
 <br>
-<h2 align="center">👽 Where to find me 👽</h2>
+<h2 align="center">🌐 Soical Media 🌐</h2>
 <br>
 <!-- https://icons8.com -->
 <div align="center">
@@ -53,4 +53,17 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="email" />
   </a>
 </div>
+<br>
+<br>
+<h2 align="center">📑 Certificates 📑</h2>
+<br>
+<a href="#" target="_blank">
+
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) CertNexus Certified Ethical Emerging Technologist Professional Certificate](https://coursera.org/share/13d485e5bd32c1093bd04b5dd8eeccd6)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Software Development Lifecycle Specialization](https://coursera.org/share/988a193da658f6dcca8268496a02bc57)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Web Design for Everybody: Basics of Web Development & Coding Specialization](https://coursera.org/share/f180d9b1ad315ff4c2c3df7b016c9ef0)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) User Experience Research and Design Specialization](https://coursera.org/share/38cb7a3a23ddc88a741bd832e75c72a5)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Object Oriented Programming in Java Specialization](https://coursera.org/share/d9a1a136b1945a404a3f99d455e8f54e)
+- [![COURSERA](https://img.shields.io/badge/-COURSERA-green) Java Database Connectivity Specialization](https://coursera.org/share/facdab85dc3b151d97568eba9380ad88)
+</a>
 
