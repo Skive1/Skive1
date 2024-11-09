@@ -18,21 +18,17 @@
 <br>
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
+<br>
 <div align=center>
 <a href="#" title="Skive1">
-    <img style="margin-right: 20px" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skive1&layout=compact&theme=monokai"/>
+    <img align="center" width="280" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skive1&layout=compact&theme=monokai"/>
   </a>
 
   <a href="#" title="Skive1">
-    <img width="315" src="https://github-readme-stats.vercel.app/api?username=Skive1&show_icons=true&theme=monokai" />
+    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=Skive1&show_icons=true&theme=monokai&include_all_commits=true" />
   </a>
 </div>
 <br>
-<br>
-<br>
-<br>
-<br>
-
 <h2 align="center">🌐 Soical Media 🌐</h2>
 <br>
 <div align="center">
