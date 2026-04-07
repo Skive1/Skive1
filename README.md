@@ -33,8 +33,6 @@
 <!--                            ABOUT ME SECTION                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
-
 ## 🧑‍💻 &nbsp;자기소개 (About Me)
 
 ```yaml
@@ -74,9 +72,9 @@ philosophy: >-
 
 ```
    ┌──────────────┐      ┌──────────────────┐      ┌─────────────────┐
-   │  💻 개발자    │ ───▶ │  🌉 브릿지 SE     │ ───▶ │  📊 PM / BA      │
-   │  Developer   │      │  Bridge Engineer  │      │  Project Manager │
-   │  (현재)      │      │  (진행 중)         │      │  (목표)          │
+   │  💻 개발자   │ ───▶│  🌉 브릿지 SE    │ ───▶ │  📊 PM / BA     │
+   │  Developer   │      │  Bridge Engineer │      │  Project Manager │
+   │  (현재)      │      │  (진행 중)        │      │  (목표)          │
    └──────────────┘      └──────────────────┘      └─────────────────┘
 ```
 
