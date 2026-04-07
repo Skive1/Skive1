@@ -2,26 +2,28 @@
 <!--                          HEADER / HERO SECTION                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,25:0052A5,50:0078D7,75:00A3E0,100:87CEEB&height=250&section=header&text=안녕하세요!%20저는%20Skive입니다%20👋&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Korean%20Bridge%20Engineer%20%7C%20Developer%20%7C%20Future%20PM%20%2F%20BA&descSize=16&descColor=B0D4F1&descAlignY=58&animation=fadeIn" width="100%" />
+
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&random=false&width=650&height=35&lines=%F0%9F%91%8B+Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=0078D7&center=true&vCenter=true&repeat=true&random=false&width=700&height=35&lines=%F0%9F%87%B0%F0%9F%87%B7+%ED%95%9C%EA%B5%AD+%EB%B8%8C%EB%A6%BF%EC%A7%80+%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4+(BrSE)+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&random=false&width=500&height=30&lines=%E2%9A%A1+Building+things+that+matter;%F0%9F%8C%8F+Turning+ideas+into+code;%F0%9F%92%BB+Passionate+about+clean+code" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&random=false&width=600&height=28&lines=%E2%9A%A1+Developer+%E2%86%92+Bridge+SE+%E2%86%92+Project+Manager;%F0%9F%8C%8F+Bridging+Vietnam+%26+Korea+through+technology;%F0%9F%92%BC+%EA%B8%B0%EC%88%A0%EA%B3%BC+%EC%86%8C%ED%86%B5%EC%9D%98+%EB%8B%A4%EB%A6%AC%EB%A5%BC+%EB%86%93%EB%8B%A4" alt="Typing SVG" />
   </a>
 </p>
 
 <!-- Visitor Counter & Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Skive1&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Skive1&style=for-the-badge&color=003366&labelColor=0052A5&label=PROFILE+VIEWS" alt="Profile Views" />
   <a href="https://github.com/Skive1?tab=followers">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSkive1&query=%24.followers&style=for-the-badge&logo=github&logoColor=58a6ff&label=Followers&color=0d1117&labelColor=161b22" alt="Followers" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSkive1&query=%24.followers&style=for-the-badge&logo=github&logoColor=87CEEB&label=Followers&color=003366&labelColor=0052A5" alt="Followers" />
   </a>
   <a href="https://github.com/Skive1?tab=repositories">
-    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSkive1&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=58a6ff&label=Repositories&color=0d1117&labelColor=161b22" alt="Repos" />
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSkive1&query=%24.public_repos&style=for-the-badge&logo=github&logoColor=87CEEB&label=Repositories&color=003366&labelColor=0052A5" alt="Repos" />
   </a>
 </p>
 
@@ -33,80 +35,156 @@
 
 <img align="right" width="280" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Coding GIF" />
 
-## 🧑‍💻 &nbsp;About Me
+## 🧑‍💻 &nbsp;자기소개 (About Me)
 
 ```yaml
-name: Lữ Gia Bảo (Skive)
+name: Lữ Gia Bảo (Skive / 스카이브)
 location: Vietnam 🇻🇳
-role: Software Developer
-education: Coursera Certified Professional
-current_focus:
-  - Full-Stack Web Development
-  - Software Engineering Best Practices
-  - Ethical Emerging Technologies
-motto: >-
-  "Success consists of going from failure
-   to failure without loss of enthusiasm."
+languages:
+  - Vietnamese (Native)
+  - Korean (한국어) 🇰🇷
+  - English
+current_role: Software Developer
+career_vision:
+  - 🌉 Korean Bridge SE (한국 브릿지 엔지니어)
+  - 📊 Project Manager / Business Analyst
+philosophy: >-
+  "기술과 소통의 다리를 놓다"
+  (Building bridges between technology & communication)
 ```
 
 <br/>
 
-- 🔭 &nbsp;Currently working on **exciting web projects**
-- 🌱 &nbsp;Always learning and exploring **new technologies**
-- 🎯 &nbsp;2026 Goals: Contribute more to **Open Source**
-- 💬 &nbsp;Ask me about **Java, JavaScript, Web Development**
+- 🇰🇷 &nbsp;한국어를 공부하고 **한국 IT 기업**과의 협업을 목표로 합니다
+- 🌉 &nbsp;Aspiring **Korean Bridge SE** — 기술과 비즈니스의 가교 역할
+- 📊 &nbsp;Future goal: **Project Manager / Business Analyst**
+- 💻 &nbsp;Currently building solid foundations in **Full-Stack Development**
+- 🎯 &nbsp;2026: 한국 기업 프로젝트 참여 & **TOPIK** 자격 준비
 - 📫 &nbsp;Reach me at **lugiabao1410@gmail.com**
-- ⚡ &nbsp;Fun fact: I believe **a good cup of coffee** is half of the code
 
 <br clear="both"/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!--                      CAREER PATH / VISION SECTION                       -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">🌉 커리어 비전 (Career Vision) 🌉</h2>
+
+<div align="center">
+
+```
+   ┌──────────────┐      ┌──────────────────┐      ┌─────────────────┐
+   │  💻 개발자    │ ───▶ │  🌉 브릿지 SE     │ ───▶ │  📊 PM / BA      │
+   │  Developer   │      │  Bridge Engineer  │      │  Project Manager │
+   │  (현재)      │      │  (진행 중)         │      │  (목표)          │
+   └──────────────┘      └──────────────────┘      └─────────────────┘
+```
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+**💻 기술 역량**<br/>*Technical Skills*
+
+Full-Stack Development<br/>
+Mobile (Flutter / Dart)<br/>
+Java / Spring / .NET / React<br/>
+Database Design
+
+</td>
+<td align="center" width="33%">
+
+**🌉 브릿지 역량**<br/>*Bridge Skills*
+
+한국어 소통 능력<br/>
+한-베 문화 이해<br/>
+기술 문서 번역
+
+</td>
+<td align="center" width="33%">
+
+**📊 관리 역량**<br/>*Management Skills*
+
+프로젝트 기획<br/>
+요구사항 분석 (BA)<br/>
+팀 커뮤니케이션
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                          TECH STACK SECTION                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">⚡ Tech Arsenal ⚡</h2>
+<h2 align="center">⚡ 기술 스택 (Tech Arsenal) ⚡</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,cpp,html,css,bootstrap&perline=6&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,js,ts,dart,cs,cpp&perline=6&theme=dark" alt="Languages" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,git,github,vscode,idea,postman&perline=6&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=spring,dotnet,react,flutter,html,css&perline=6&theme=dark" alt="Frameworks" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,maven&perline=6&theme=dark" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=bootstrap,mysql,postgres,docker,git,github&perline=6&theme=dark" alt="Tools & DB" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea,postman,maven,githubactions,figma&perline=6&theme=dark" alt="Dev Tools" />
 </p>
 
 <br/>
 
 <details>
-<summary><h3>📋 Detailed Tech Stack (Click to expand)</h3></summary>
+<summary><h3>📋 상세 기술 스택 (Detailed Tech Stack)</h3></summary>
 
 <br/>
 
 <div align="center">
 
-#### 💻 Languages
+#### 💻 프로그래밍 언어 (Languages)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![C%23](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-#### 🎨 Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+#### 🎨 프레임워크 (Frameworks & Libraries)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black)
 
-#### 🗄️ Databases
+#### 🗄️ 데이터베이스 (Databases)
 ![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### 🛠️ Tools & Platforms
+#### 🚀 DevOps & 배포 (Deployment)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
+
+#### 🛠️ 개발 도구 (Tools & Platforms)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+#### 🌐 언어 능력 (Languages)
+![Vietnamese](https://img.shields.io/badge/Vietnamese-DA251D?style=for-the-badge&logoColor=white)
+![Korean](https://img.shields.io/badge/한국어-003478?style=for-the-badge&logoColor=white)
+![English](https://img.shields.io/badge/English-4169E1?style=for-the-badge&logoColor=white)
 
 </div>
 
@@ -118,16 +196,16 @@ motto: >-
 <!--                         GITHUB STATS SECTION                            -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">📊 GitHub Analytics 📊</h2>
+<h2 align="center">📊 GitHub 통계 (Analytics) 📊</h2>
 
-<!-- Streak Stats (Working) -->
+<!-- Streak Stats -->
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=Skive1&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak" />
+  <img width="70%" src="https://streak-stats.demolab.com?user=Skive1&theme=github-dark-blue&hide_border=true&background=0D1117&ring=0078D7&fire=0078D7&currStreakLabel=0078D7&sideLabels=0078D7&dates=8B949E" alt="GitHub Streak" />
 </p>
 
-<!-- Activity Graph (Working) -->
+<!-- Activity Graph -->
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Skive1&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area=true&area_color=161b22&hide_border=true&custom_title=%F0%9F%93%88%20Contribution%20Activity" alt="Activity Graph" />
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Skive1&bg_color=0d1117&color=0078D7&line=0078D7&point=c9d1d9&area=true&area_color=003366&hide_border=true&custom_title=%F0%9F%93%88%20%EA%B8%B0%EC%97%AC%20%ED%99%9C%EB%8F%99%20(Contribution%20Activity)" alt="Activity Graph" />
 </p>
 
 <br/>
@@ -136,7 +214,7 @@ motto: >-
 <!--                        CERTIFICATES SECTION                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🏆 Certifications & Achievements 🏆</h2>
+<h2 align="center">🏆 자격증 & 수료증 (Certifications) 🏆</h2>
 
 <div align="center">
 
@@ -157,16 +235,16 @@ motto: >-
 <!--                     CURRENT FOCUS / ROADMAP                             -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🗺️ 2026 Roadmap 🗺️</h2>
+<h2 align="center">🗺️ 2026 로드맵 (Roadmap) 🗺️</h2>
 
 <div align="center">
 
-| Quarter | Focus Area | Status |
+| 분기 (Quarter) | 목표 (Focus Area) | 상태 (Status) |
 |:-------:|:----------:|:------:|
-| Q1 | 🏗️ Master Full-Stack Development | ✅ In Progress |
-| Q2 | 🤖 Explore AI/ML Integration | 🔜 Coming Soon |
-| Q3 | ☁️ Cloud & DevOps Skills | 📋 Planned |
-| Q4 | 🌐 Open Source Contributions | 📋 Planned |
+| Q1 | 🏗️ Full-Stack 개발 역량 강화 | ✅ 진행 중 |
+| Q2 | 🇰🇷 한국어 능력 향상 & TOPIK 준비 | 🔜 예정 |
+| Q3 | 🌉 한국 IT 기업 BrSE 프로젝트 참여 | 📋 계획 |
+| Q4 | 📊 PM/BA 역량 개발 & 자격증 취득 | 📋 계획 |
 
 </div>
 
@@ -176,7 +254,7 @@ motto: >-
 <!--                        CONNECT WITH ME                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🤝 Let's Connect 🤝</h2>
+<h2 align="center">🤝 연락처 (Let's Connect) 🤝</h2>
 
 <p align="center">
   <a href="https://www.facebook.com/niMoaP7" target="_blank">
@@ -196,6 +274,10 @@ motto: >-
   </a>
 </p>
 
+<p align="center">
+  <i>💬 한국어로 연락 주셔도 됩니다! (Feel free to contact me in Korean!)</i>
+</p>
+
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
@@ -203,7 +285,7 @@ motto: >-
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=The%20only%20way%20to%20do%20great%20work%20is%20to%20love%20what%20you%20do.&author=Steve%20Jobs" alt="Quote" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%EC%8B%A4%ED%8C%A8%EB%8A%94%20%EC%84%B1%EA%B3%B5%EC%9D%98%20%EC%96%B4%EB%A8%B8%EB%8B%88%EB%8B%A4%20%E2%80%94%20Failure%20is%20the%20mother%20of%20success.&author=%ED%95%9C%EA%B5%AD%20%EC%86%8D%EB%8B%B4%20%2F%20Korean%20Proverb" alt="Korean Proverb" />
 </p>
 
 <br/>
@@ -224,11 +306,12 @@ motto: >-
 <!--                              FOOTER                                     -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:003366,25:0052A5,50:0078D7,75:00A3E0,100:87CEEB&height=120&section=footer" width="100%" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=flat-square" alt="Made with love" />
-  <img src="https://img.shields.io/badge/Thanks%20for-Visiting!-58a6ff?style=flat-square" alt="Thanks" />
+  <img src="https://img.shields.io/badge/감사합니다-방문해주셔서!-0078D7?style=flat-square" alt="감사합니다" />
+  <img src="https://img.shields.io/badge/Thanks%20for-Visiting!-003366?style=flat-square" alt="Thanks" />
 </p>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
