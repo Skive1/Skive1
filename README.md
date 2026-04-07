@@ -159,7 +159,7 @@ philosophy: >-
 
 <!-- Overall Stats with Grade -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skive1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0078D7&icon_color=00A3E0&text_color=c9d1d9&rank_icon=github" alt="Skive1 GitHub Stats with Grade" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Skive1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0078D7&icon_color=00A3E0&text_color=c9d1d9&rank_icon=github" alt="Skive1 GitHub Stats with Grade" />
 </p>
 
 <!-- Streak Stats -->
