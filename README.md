@@ -157,6 +157,11 @@ philosophy: >-
 
 <h2 align="center">📊 GitHub 통계 (Analytics) 📊</h2>
 
+<!-- Overall Stats with Grade -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Skive1&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0078D7&icon_color=00A3E0&text_color=c9d1d9&rank_icon=github" alt="Skive1 GitHub Stats with Grade" />
+</p>
+
 <!-- Streak Stats -->
 <p align="center">
   <img width="70%" src="https://streak-stats.demolab.com?user=Skive1&theme=github-dark-blue&hide_border=true&background=0D1117&ring=0078D7&fire=0078D7&currStreakLabel=0078D7&sideLabels=0078D7&dates=8B949E" alt="GitHub Streak" />
