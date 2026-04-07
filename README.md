@@ -2,10 +2,6 @@
 <!--                          HEADER / HERO SECTION                          -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<a href="#" target="_blank">
-  <img src="svg/skive1.svg" width="100%" alt="Skive1" />
-</a>
-
 <!-- Animated Typing -->
 <p align="center">
   <a href="https://git.io/typing-svg">
