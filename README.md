@@ -66,52 +66,13 @@ philosophy: >-
 <!--                      CAREER PATH / VISION SECTION                       -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<h2 align="center">🌉 커리어 비전 (Career Vision) 🌉</h2>
-
 <div align="center">
-
-```
-   ┌──────────────┐      ┌──────────────────┐      ┌─────────────────┐
-   │  💻 개발자   │ ───▶│  🌉 브릿지 SE    │ ───▶ │  📊 PM / BA     │
-   │  Developer   │      │  Bridge Engineer │      │  Project Manager │
-   │  (현재)      │      │  (진행 중)        │      │  (목표)          │
-   └──────────────┘      └──────────────────┘      └─────────────────┘
-```
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/career-vision.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/career-vision.svg" />
+    <img alt="Career Vision & Roadmap" src="./assets/career-vision.svg" width="100%" />
+  </picture>
 </div>
-
-<table align="center">
-<tr>
-<td align="center" width="33%">
-
-**💻 기술 역량**<br/>*Technical Skills*
-
-Full-Stack Development<br/>
-Mobile (Flutter / Dart)<br/>
-Java / Spring / .NET / React<br/>
-Database Design
-
-</td>
-<td align="center" width="33%">
-
-**🌉 브릿지 역량**<br/>*Bridge Skills*
-
-한국어 소통 능력<br/>
-한-베 문화 이해<br/>
-기술 문서 번역
-
-</td>
-<td align="center" width="33%">
-
-**📊 관리 역량**<br/>*Management Skills*
-
-프로젝트 기획<br/>
-요구사항 분석 (BA)<br/>
-팀 커뮤니케이션
-
-</td>
-</tr>
-</table>
 
 <br/>
 

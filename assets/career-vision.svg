@@ -1,0 +1,314 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 520" fill="none">
+  <defs>
+    <!-- Background gradient -->
+    <linearGradient id="bgGrad" x1="0" y1="0" x2="900" y2="520" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0D1117"/>
+      <stop offset="50%" stop-color="#111827"/>
+      <stop offset="100%" stop-color="#0D1117"/>
+    </linearGradient>
+
+    <!-- Timeline gradient -->
+    <linearGradient id="lineGrad" x1="100" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#0078D7"/>
+      <stop offset="50%" stop-color="#00A3E0"/>
+      <stop offset="100%" stop-color="#87CEEB"/>
+    </linearGradient>
+
+    <!-- Card gradients -->
+    <linearGradient id="card1Grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#003366" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0052A5" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="card2Grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0052A5" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#0078D7" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="card3Grad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0078D7" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00A3E0" stop-opacity="0.5"/>
+    </linearGradient>
+
+    <!-- Node glow -->
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <filter id="glowStrong">
+      <feGaussianBlur stdDeviation="6" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Card shadow -->
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="8" flood-color="#0078D7" flood-opacity="0.15"/>
+    </filter>
+
+    <!-- Skill card gradient backgrounds -->
+    <linearGradient id="skill1Bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a3a5c" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0f2744" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="skill2Bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a4a6c" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0f3454" stop-opacity="0.7"/>
+    </linearGradient>
+    <linearGradient id="skill3Bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#1a5a7c" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0f4464" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <!-- Arrow marker -->
+    <marker id="arrowhead" markerWidth="10" markerHeight="7" refX="10" refY="3.5" orient="auto">
+      <polygon points="0 0, 10 3.5, 0 7" fill="#00A3E0"/>
+    </marker>
+
+    <!-- Animated dash for timeline -->
+    <style>
+      @keyframes dash {
+        to { stroke-dashoffset: -20; }
+      }
+      @keyframes fadeInUp {
+        from { opacity: 0; transform: translateY(10px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.6; }
+        50% { opacity: 1; }
+      }
+      @keyframes nodeGlow {
+        0%, 100% { r: 12; }
+        50% { r: 14; }
+      }
+      .timeline-dash {
+        animation: dash 1s linear infinite;
+      }
+      .pulse-dot {
+        animation: pulse 2s ease-in-out infinite;
+      }
+      .card-hover:hover {
+        filter: brightness(1.2);
+      }
+    </style>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="520" rx="16" fill="url(#bgGrad)"/>
+
+  <!-- Subtle grid pattern -->
+  <g opacity="0.03">
+    <line x1="0" y1="50" x2="900" y2="50" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="0" y1="100" x2="900" y2="100" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="0" y1="150" x2="900" y2="150" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="0" y1="200" x2="900" y2="200" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="0" y1="250" x2="900" y2="250" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="0" y1="300" x2="900" y2="300" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="0" y1="350" x2="900" y2="350" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="0" y1="400" x2="900" y2="400" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="0" y1="450" x2="900" y2="450" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="0" y1="500" x2="900" y2="500" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="100" y1="0" x2="100" y2="520" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="200" y1="0" x2="200" y2="520" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="300" y1="0" x2="300" y2="520" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="400" y1="0" x2="400" y2="520" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="500" y1="0" x2="500" y2="520" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="600" y1="0" x2="600" y2="520" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="700" y1="0" x2="700" y2="520" stroke="#FFFFFF" stroke-width="0.5"/>
+    <line x1="800" y1="0" x2="800" y2="520" stroke="#FFFFFF" stroke-width="0.5"/>
+  </g>
+
+  <!-- Decorative corner accents -->
+  <path d="M 0 16 Q 0 0 16 0 L 80 0" stroke="#0078D7" stroke-width="1" fill="none" opacity="0.3"/>
+  <path d="M 0 16 L 0 80" stroke="#0078D7" stroke-width="1" fill="none" opacity="0.3"/>
+  <path d="M 900 16 Q 900 0 884 0 L 820 0" stroke="#0078D7" stroke-width="1" fill="none" opacity="0.3"/>
+  <path d="M 900 16 L 900 80" stroke="#0078D7" stroke-width="1" fill="none" opacity="0.3"/>
+
+  <!-- ═══════════════════════════ TITLE ═══════════════════════════ -->
+  <text x="450" y="45" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700" fill="#FFFFFF" letter-spacing="2">
+    🌉 커리어 비전
+  </text>
+  <text x="450" y="68" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8B949E" letter-spacing="4" text-transform="uppercase">
+    CAREER VISION &amp; ROADMAP
+  </text>
+
+  <!-- Subtitle line -->
+  <line x1="320" y1="80" x2="580" y2="80" stroke="url(#lineGrad)" stroke-width="1" opacity="0.5"/>
+
+  <!-- ═══════════════════════════ TIMELINE ═══════════════════════════ -->
+
+  <!-- Timeline background glow -->
+  <line x1="130" y1="140" x2="770" y2="140" stroke="#0078D7" stroke-width="6" opacity="0.08"/>
+
+  <!-- Main timeline line -->
+  <line x1="130" y1="140" x2="770" y2="140" stroke="url(#lineGrad)" stroke-width="2.5" opacity="0.7"/>
+
+  <!-- Animated timeline dashes overlay -->
+  <line x1="130" y1="140" x2="770" y2="140" stroke="url(#lineGrad)" stroke-width="2" stroke-dasharray="8 12" class="timeline-dash" opacity="0.5"/>
+
+  <!-- Directional arrows between nodes -->
+  <path d="M 230 140 L 345 140" stroke="#00A3E0" stroke-width="2" marker-end="url(#arrowhead)" opacity="0.6"/>
+  <path d="M 530 140 L 645 140" stroke="#00A3E0" stroke-width="2" marker-end="url(#arrowhead)" opacity="0.6"/>
+
+  <!-- ═══════════ NODE 1: Developer (현재) ═══════════ -->
+  <g filter="url(#glow)">
+    <circle cx="150" cy="140" r="16" fill="#003366" stroke="#0078D7" stroke-width="2.5"/>
+    <circle cx="150" cy="140" r="8" fill="#0078D7" class="pulse-dot"/>
+  </g>
+  <!-- Status badge -->
+  <rect x="113" y="100" width="74" height="20" rx="10" fill="#003366" stroke="#0078D7" stroke-width="1" opacity="0.9"/>
+  <text x="150" y="114" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#87CEEB" font-weight="600">✅ 현재</text>
+
+  <!-- Card 1 -->
+  <g filter="url(#cardShadow)" class="card-hover">
+    <rect x="75" y="168" width="150" height="80" rx="12" fill="url(#card1Grad)" stroke="#0078D7" stroke-width="1" opacity="0.8"/>
+    <text x="150" y="195" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22">💻</text>
+    <text x="150" y="216" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#FFFFFF" font-weight="700">개발자</text>
+    <text x="150" y="234" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#8B949E">Developer</text>
+  </g>
+
+  <!-- ═══════════ NODE 2: Bridge SE (진행 중) ═══════════ -->
+  <g filter="url(#glowStrong)">
+    <circle cx="450" cy="140" r="18" fill="#0052A5" stroke="#00A3E0" stroke-width="3"/>
+    <circle cx="450" cy="140" r="9" fill="#00A3E0" class="pulse-dot"/>
+  </g>
+  <!-- Status badge -->
+  <rect x="408" y="100" width="84" height="20" rx="10" fill="#0052A5" stroke="#00A3E0" stroke-width="1" opacity="0.9"/>
+  <text x="450" y="114" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#87CEEB" font-weight="600">🔄 진행 중</text>
+
+  <!-- Card 2 -->
+  <g filter="url(#cardShadow)" class="card-hover">
+    <rect x="375" y="168" width="150" height="80" rx="12" fill="url(#card2Grad)" stroke="#00A3E0" stroke-width="1" opacity="0.8"/>
+    <text x="450" y="195" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22">🌉</text>
+    <text x="450" y="216" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#FFFFFF" font-weight="700">브릿지 SE</text>
+    <text x="450" y="234" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#8B949E">Bridge Engineer</text>
+  </g>
+
+  <!-- ═══════════ NODE 3: PM / BA (목표) ═══════════ -->
+  <g filter="url(#glow)">
+    <circle cx="750" cy="140" r="16" fill="#0078D7" stroke="#87CEEB" stroke-width="2"/>
+    <circle cx="750" cy="140" r="6" fill="#87CEEB" opacity="0.5"/>
+  </g>
+  <!-- Status badge -->
+  <rect x="718" y="100" width="64" height="20" rx="10" fill="#0078D7" stroke="#87CEEB" stroke-width="1" opacity="0.7"/>
+  <text x="750" y="114" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#B0D4F1" font-weight="600">🎯 목표</text>
+
+  <!-- Card 3 -->
+  <g filter="url(#cardShadow)" class="card-hover">
+    <rect x="675" y="168" width="150" height="80" rx="12" fill="url(#card3Grad)" stroke="#87CEEB" stroke-width="1" opacity="0.7"/>
+    <text x="750" y="195" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="22">📊</text>
+    <text x="750" y="216" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#FFFFFF" font-weight="700">PM / BA</text>
+    <text x="750" y="234" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="10" fill="#8B949E">Project Manager</text>
+  </g>
+
+  <!-- ═══════════════════════════ DIVIDER ═══════════════════════════ -->
+  <line x1="60" y1="278" x2="840" y2="278" stroke="#1E293B" stroke-width="1" stroke-dasharray="4 4" opacity="0.6"/>
+
+  <!-- ═══════════════════════════ SKILL CARDS ═══════════════════════════ -->
+
+  <!-- ═══════════ Skill Card 1: Technical ═══════════ -->
+  <g filter="url(#cardShadow)">
+    <rect x="40" y="298" width="260" height="200" rx="14" fill="url(#skill1Bg)" stroke="#0052A5" stroke-width="1"/>
+
+    <!-- Card header stripe -->
+    <rect x="40" y="298" width="260" height="44" rx="14" fill="#003366" opacity="0.6"/>
+    <rect x="40" y="328" width="260" height="14" fill="#003366" opacity="0.6"/>
+
+    <!-- Header icon and text -->
+    <text x="170" y="318" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#FFFFFF" font-weight="700">
+      💻 기술 역량
+    </text>
+    <text x="170" y="334" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#87CEEB" letter-spacing="2">TECHNICAL SKILLS</text>
+
+    <!-- Skills list -->
+    <g font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#C9D1D9">
+      <circle cx="70" cy="366" r="3" fill="#0078D7"/>
+      <text x="82" y="370">Full-Stack Development</text>
+
+      <circle cx="70" cy="392" r="3" fill="#0078D7"/>
+      <text x="82" y="396">Mobile (Flutter / Dart)</text>
+
+      <circle cx="70" cy="418" r="3" fill="#0078D7"/>
+      <text x="82" y="422">Java / Spring / .NET</text>
+
+      <circle cx="70" cy="444" r="3" fill="#0078D7"/>
+      <text x="82" y="448">React / TypeScript</text>
+
+      <circle cx="70" cy="470" r="3" fill="#0078D7"/>
+      <text x="82" y="474">Database Design</text>
+    </g>
+  </g>
+
+  <!-- ═══════════ Skill Card 2: Bridge ═══════════ -->
+  <g filter="url(#cardShadow)">
+    <rect x="320" y="298" width="260" height="200" rx="14" fill="url(#skill2Bg)" stroke="#0078D7" stroke-width="1"/>
+
+    <!-- Card header stripe -->
+    <rect x="320" y="298" width="260" height="44" rx="14" fill="#0052A5" opacity="0.6"/>
+    <rect x="320" y="328" width="260" height="14" fill="#0052A5" opacity="0.6"/>
+
+    <!-- Header icon and text -->
+    <text x="450" y="318" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#FFFFFF" font-weight="700">
+      🌉 브릿지 역량
+    </text>
+    <text x="450" y="334" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#87CEEB" letter-spacing="2">BRIDGE SKILLS</text>
+
+    <!-- Skills list -->
+    <g font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#C9D1D9">
+      <circle cx="350" cy="366" r="3" fill="#00A3E0"/>
+      <text x="362" y="370">한국어 소통 능력</text>
+
+      <circle cx="350" cy="392" r="3" fill="#00A3E0"/>
+      <text x="362" y="396">한-베 문화 이해</text>
+
+      <circle cx="350" cy="418" r="3" fill="#00A3E0"/>
+      <text x="362" y="422">기술 문서 번역</text>
+
+      <circle cx="350" cy="444" r="3" fill="#00A3E0"/>
+      <text x="362" y="448">고객 요구사항 소통</text>
+
+      <circle cx="350" cy="470" r="3" fill="#00A3E0"/>
+      <text x="362" y="474">한-베 팀 협업 조율</text>
+    </g>
+  </g>
+
+  <!-- ═══════════ Skill Card 3: Management ═══════════ -->
+  <g filter="url(#cardShadow)">
+    <rect x="600" y="298" width="260" height="200" rx="14" fill="url(#skill3Bg)" stroke="#00A3E0" stroke-width="1"/>
+
+    <!-- Card header stripe -->
+    <rect x="600" y="298" width="260" height="44" rx="14" fill="#0078D7" opacity="0.6"/>
+    <rect x="600" y="328" width="260" height="14" fill="#0078D7" opacity="0.6"/>
+
+    <!-- Header icon and text -->
+    <text x="730" y="318" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#FFFFFF" font-weight="700">
+      📊 관리 역량
+    </text>
+    <text x="730" y="334" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="9" fill="#87CEEB" letter-spacing="2">MANAGEMENT SKILLS</text>
+
+    <!-- Skills list -->
+    <g font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#C9D1D9">
+      <circle cx="630" cy="366" r="3" fill="#87CEEB"/>
+      <text x="642" y="370">프로젝트 기획</text>
+
+      <circle cx="630" cy="392" r="3" fill="#87CEEB"/>
+      <text x="642" y="396">요구사항 분석 (BA)</text>
+
+      <circle cx="630" cy="418" r="3" fill="#87CEEB"/>
+      <text x="642" y="422">팀 커뮤니케이션</text>
+
+      <circle cx="630" cy="444" r="3" fill="#87CEEB"/>
+      <text x="642" y="448">리스크 관리</text>
+
+      <circle cx="630" cy="470" r="3" fill="#87CEEB"/>
+      <text x="642" y="474">일정 &amp; 품질 관리</text>
+    </g>
+  </g>
+
+  <!-- Bottom accent -->
+  <line x1="200" y1="512" x2="700" y2="512" stroke="url(#lineGrad)" stroke-width="1" opacity="0.3"/>
+</svg>
