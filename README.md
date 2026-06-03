@@ -248,11 +248,6 @@ philosophy: >-
 <!--                           INSPIRATIONAL QUOTE                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=%EC%8B%A4%ED%8C%A8%EB%8A%94%20%EC%84%B1%EA%B3%B5%EC%9D%98%20%EC%96%B4%EB%A8%B8%EB%8B%88%EB%8B%A4%20%E2%80%94%20Failure%20is%20the%20mother%20of%20success.&author=%ED%95%9C%EA%B5%AD%20%EC%86%8D%EB%8B%B4%20%2F%20Korean%20Proverb" alt="Korean Proverb" />
-</p>
-
-<br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════════════ -->
 <!--                         SNAKE ANIMATION                                 -->
